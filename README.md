@@ -14,9 +14,9 @@ Muñecos cabezones que representan personajes
 -Personas reales
 
 ## ⚙️ Lenguajes utilizados:
--HTML
--CSS
-  -Flex
-  -Grid
+* HTML
+* CSS
+    * Flex
+    * Grid
 
 __Autor:__ Federico Galup
